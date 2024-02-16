@@ -3,6 +3,6 @@
 ![ezgif com-video-to-gif-converter](https://github.com/Saltzus/3drender/assets/99826354/ef172a6b-de58-4ff0-9218-37ef9f11cd26)
 
 ## Libraries
-- [sdl2]([https://www.glfw.org/](https://www.libsdl.org/))
+- [sdl2](https://www.glfw.org/](https://www.libsdl.org/)
 - [glm](https://github.com/g-truc/glm)
 
